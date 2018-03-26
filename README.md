@@ -64,10 +64,10 @@ title: Virtual machine installation Linux system tutorial
 ![enter description here][19]
 
 21.选择“skip”
-![enter description here][20]
+![enter description here][22]
 
 22.看到这里就恭喜你完成了！
-![enter description here][21]
+![enter description here][23]
 
 
   [1]: ./image/1.png "1"
@@ -89,5 +89,5 @@ title: Virtual machine installation Linux system tutorial
   [17]: ./image/18.png "18"
   [18]: ./image/19.png "19"
   [19]: ./image/21.png "21"
-  [20]: ./image/29.png "23"
+  [20]: ./image/23(2).png "22"
   [21]: ./image/23(1).png "23"
