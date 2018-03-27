@@ -90,4 +90,4 @@ title: Virtual machine installation Linux system tutorial
   [18]: ./image/19.png "19"
   [19]: ./image/21.png "21"
   [20]: ./image/23（2）.png "22"
-  [21]: ./image/23(1).png "23"
+  [21]: ./image/23（1）.png "23"
